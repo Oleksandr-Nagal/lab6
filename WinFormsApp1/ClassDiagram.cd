@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WinFormsApp1.Info">
+    <Position X="21.25" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp1.Main">
+    <Position X="27" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECQPACCEACAACBEA4ByzUAGCEIQBCAHiAgAghBAFIIg=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp1.Menu">
+    <Position X="29.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAhACAAAAAAAASAQAAiAAAAAAAgAAAAAAAAIAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp1.Settings">
+    <Position X="25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACUgAFAAIECABAACAAAAAEEQAERAJAAAAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp1.Textures">
+    <Position X="23.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAAAAAAACZBCBAIAMCAAAACgA4ZAQAAAGAgAAAAAIA=</HashCode>
+      <FileName>Textures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="25" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
